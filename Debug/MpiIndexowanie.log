@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(69): warning C4101: 'i': unreferenced local variable
   MpiIndexowanie.vcxproj -> c:\users\grzegorz kokoszka\documents\visual studio 2015\Projects\MpiIndexowanie\Debug\MpiIndexowanie.exe
