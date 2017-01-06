@@ -1,4 +1,11 @@
 ﻿  Source.cpp
-c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(69): warning C4101: 'i': unreferenced local variable
-  MpiIndexowanie.vcxproj -> c:\users\grzegorz kokoszka\documents\visual studio 2015\Projects\MpiIndexowanie\Debug\MpiIndexowanie.exe
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(118): warning C4101: 'NumberOfThreads': unreferenced local variable
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(163): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\mpiindexowanie\mpiindexowanie\source.cpp(61): warning C4715: 'StringArrayContainer::getElementAt': not all control paths return a value
+  MpiIndexowanie.vcxproj -> C:\Users\Grzegorz Kokoszka\documents\visual studio 2015\Projects\MpiIndexowanie\Debug\MpiIndexowanie.exe
